@@ -242,6 +242,7 @@
 				TargetAttributes = {
 					79FB2B671F03907E001205C8 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = PCCZJUYRT6;
 						ProvisioningStyle = Automatic;
 					};
 					79FB2B7B1F03907E001205C8 = {
@@ -602,6 +603,7 @@
 			baseConfigurationReference = 1F836F110B643FB3CAFE6EBA /* Pods-ios-swift-date-demo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PCCZJUYRT6;
 				INFOPLIST_FILE = "ios-swift-date-demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.st-ventures.ios-swift-date-demo";
@@ -615,6 +617,7 @@
 			baseConfigurationReference = D89A54F53EE7E75E575A0C60 /* Pods-ios-swift-date-demo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = PCCZJUYRT6;
 				INFOPLIST_FILE = "ios-swift-date-demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.st-ventures.ios-swift-date-demo";
@@ -700,6 +703,7 @@
 				79FB2B921F03907E001205C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79FB2B931F03907E001205C8 /* Build configuration list for PBXNativeTarget "ios-swift-date-demoTests" */ = {
 			isa = XCConfigurationList;
@@ -708,6 +712,7 @@
 				79FB2B951F03907E001205C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79FB2B961F03907E001205C8 /* Build configuration list for PBXNativeTarget "ios-swift-date-demoUITests" */ = {
 			isa = XCConfigurationList;
@@ -716,6 +721,7 @@
 				79FB2B981F03907E001205C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
